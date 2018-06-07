@@ -1,0 +1,10 @@
+n=int(input())
+arr = map(int, input().split())
+s=set(arr)
+m=int(input())
+ar = map(int, input().split())
+r=set(ar)
+p=len(s-r)
+t=len(r-s)
+g=p+t
+print(str(g))
