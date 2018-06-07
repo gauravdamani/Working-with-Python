@@ -11,12 +11,11 @@ In my project , I have crawled the page Candy Crush Saga of iTunes.
 Scraping: Viewing the page's source code and extracting data from them using standard library functions. I have extracted data about the name of the app,developer,price.
 Further I have done the same for other links I found in the given page( Similar apps).
 
-It’s an easy concept. I used the following tutorial to grab the concepts: [You tube tutorial link](https://www.youtube.com/watch?v=qGPwBBSFAuo&list=PLp55XiVzZ1_iUYan9C3NsWhdkw4Gbnovx)
+It’s an easy concept and makes analysing data easy.
 
 
 3) Next I tried my hands in implementing a Search Engine using python.
 I’ve written a code which takes a query as input and returns the googled results of your query. In case you are not satisfied with the first result, just type “another” in the query. It will fetch you another result from google. Continue doing this till you are satisfied.
-Learn to use the module Beautiful Soup and requests.
-This is a wonderful tutorial for the google search with python:
-[Google search with python](https://www.youtube.com/watch?v=XUE4b772798)
+Learn to use the module Beautiful Soup and requests( they make things crystal clear and simple).
+
 
